@@ -1,0 +1,25 @@
+_repo: Kultarannan-impi-Historiallinen-kertomus-kymmenennelta-vuosisadalta_66158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huntuvuori, Hilda
+    birthdate: 1887
+    deathdate: 1968
+    gutenberg_agent_id: '53568'
+    url: http://www.gutenberg.org/2009/agents/53568
+    wikipedia: https://fi.wikipedia.org/wiki/Hilda_Huntuvuori
+description: ''
+gutenberg_issued: '2021-08-28'
+identifiers:
+  gutenberg: '66158'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: 'Kultarannan impi: Historiallinen kertomus kymmenenneltä vuosisadalta'
+url: http://www.gutenberg.org/ebooks/66158
