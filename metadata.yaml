@@ -1,5 +1,8 @@
 _repo: Kultarannan-impi-Historiallinen-kertomus-kymmenennelta-vuosisadalta_66158
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huntuvuori, Hilda
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53568
     wikipedia: https://fi.wikipedia.org/wiki/Hilda_Huntuvuori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66158#Kultarannan-impi-Historiallinen-kertomus-kymmenennelta-vuosisadalta
 gutenberg_issued: '2021-08-28'
 identifiers:
   gutenberg: '66158'
